@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/freedom_mobile/alexandria/api/BookListAdapter.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/freedom_mobile/alexandria/api/Callback.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/freedom_mobile/alexandria/barcode/BarcodeGraphic.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/freedom_mobile/alexandria/barcode/BarcodeGraphicTracker.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/freedom_mobile/alexandria/barcode/BarcodeTrackerFactory.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/freedom_mobile/alexandria/camera/CameraSource.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/freedom_mobile/alexandria/camera/CameraSourcePreview.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/freedom_mobile/alexandria/camera/GraphicOverlay.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/freedom_mobile/alexandria/data/AlexandriaContract.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/freedom_mobile/alexandria/data/BookProvider.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/freedom_mobile/alexandria/data/DbHelper.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/freedom_mobile/alexandria/services/BookService.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/freedom_mobile/alexandria/services/DownloadImage.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_full_book.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/xml/preferences.xml" charset="windows-1252" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
